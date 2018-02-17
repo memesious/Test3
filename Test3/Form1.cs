@@ -16,6 +16,7 @@ namespace Test3
         {
             InitializeComponent();
             //коментарий
+            //комме
         }
     }
 }
