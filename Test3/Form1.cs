@@ -15,6 +15,7 @@ namespace Test3
         public Form1()
         {
             InitializeComponent();
+            //коментарий
         }
     }
 }
